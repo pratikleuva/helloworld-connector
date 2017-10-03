@@ -1,0 +1,1 @@
+http\://www.mulesoft.org/schema/mule/helloworld=org.mule.modules.helloworld.generated.config.HelloworldNamespaceHandler
